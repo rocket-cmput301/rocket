@@ -1,5 +1,5 @@
 # rocket
-# CMPUT 301: Lab 1 Participation Exercise
+# CMPUT 301: Lab 4 Participation Exercise
 
 ## Student Details
 - **Full Name:** `Ebube Odeluga`
